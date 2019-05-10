@@ -1,0 +1,16 @@
+C:\Users\Paul\source\repos\GuitarApp\GuitarApp\GuitarApp\bin\Release\netstandard2.0\GuitarApp.deps.json
+C:\Users\Paul\source\repos\GuitarApp\GuitarApp\GuitarApp\bin\Release\netstandard2.0\GuitarApp.dll
+C:\Users\Paul\source\repos\GuitarApp\GuitarApp\GuitarApp\bin\Release\netstandard2.0\GuitarApp.pdb
+C:\Users\Paul\source\repos\GuitarApp\GuitarApp\GuitarApp\obj\Release\netstandard2.0\GuitarApp.csprojAssemblyReference.cache
+C:\Users\Paul\source\repos\GuitarApp\GuitarApp\GuitarApp\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Paul\source\repos\GuitarApp\GuitarApp\GuitarApp\obj\Release\netstandard2.0\ChordPage.xaml.g.cs
+C:\Users\Paul\source\repos\GuitarApp\GuitarApp\GuitarApp\obj\Release\netstandard2.0\ChordsPage.xaml.g.cs
+C:\Users\Paul\source\repos\GuitarApp\GuitarApp\GuitarApp\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Paul\source\repos\GuitarApp\GuitarApp\GuitarApp\obj\Release\netstandard2.0\ShopsPage.xaml.g.cs
+C:\Users\Paul\source\repos\GuitarApp\GuitarApp\GuitarApp\obj\Release\netstandard2.0\StartPage.xaml.g.cs
+C:\Users\Paul\source\repos\GuitarApp\GuitarApp\GuitarApp\obj\Release\netstandard2.0\GuitarApp.csproj.CoreCompileInputs.cache
+C:\Users\Paul\source\repos\GuitarApp\GuitarApp\GuitarApp\obj\Release\netstandard2.0\GuitarApp.AssemblyInfoInputs.cache
+C:\Users\Paul\source\repos\GuitarApp\GuitarApp\GuitarApp\obj\Release\netstandard2.0\GuitarApp.AssemblyInfo.cs
+C:\Users\Paul\source\repos\GuitarApp\GuitarApp\GuitarApp\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Paul\source\repos\GuitarApp\GuitarApp\GuitarApp\obj\Release\netstandard2.0\GuitarApp.dll
+C:\Users\Paul\source\repos\GuitarApp\GuitarApp\GuitarApp\obj\Release\netstandard2.0\GuitarApp.pdb

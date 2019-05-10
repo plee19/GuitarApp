@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarApp.Android", "GuitarApp\GuitarApp.Android\GuitarApp.Android.csproj", "{A2EAF4C2-B5AC-46EF-9381-98B64F34A7B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuitarApp", "GuitarApp\GuitarApp\GuitarApp.csproj", "{5E5EA408-884D-43E4-AC0E-2205D14F1161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2EAF4C2-B5AC-46EF-9381-98B64F34A7B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2EAF4C2-B5AC-46EF-9381-98B64F34A7B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2EAF4C2-B5AC-46EF-9381-98B64F34A7B6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A2EAF4C2-B5AC-46EF-9381-98B64F34A7B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2EAF4C2-B5AC-46EF-9381-98B64F34A7B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2EAF4C2-B5AC-46EF-9381-98B64F34A7B6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5E5EA408-884D-43E4-AC0E-2205D14F1161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5EA408-884D-43E4-AC0E-2205D14F1161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5EA408-884D-43E4-AC0E-2205D14F1161}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5E5EA408-884D-43E4-AC0E-2205D14F1161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5EA408-884D-43E4-AC0E-2205D14F1161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5EA408-884D-43E4-AC0E-2205D14F1161}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77281ED9-BB24-4913-9FDC-1E6FBDAE9748}
+	EndGlobalSection
+EndGlobal

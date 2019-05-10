@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GuitarApp.ChordPage">
+    <StackLayout>
+        <Image Source="{Binding Image_Url}" Aspect="AspectFit" HeightRequest="300"/>
+        <Label Text="Code:" HorizontalTextAlignment="Center"/>
+        <Label Text="{Binding Code}" FontSize="Large" HorizontalTextAlignment="Center" />
+    </StackLayout>
+</ContentPage>

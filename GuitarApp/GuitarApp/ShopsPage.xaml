@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GuitarApp.ShopsPage"
+             Title="Shops">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" FontSize="Large" >
+                <Label.Text>
+Kraft Music
+9935 S Oakwood Park Dr 
+Franklin, WI 53132
+(800) 783-3368
+                </Label.Text>
+            </Label>
+            <Button VerticalOptions="Center" Text="Website" Clicked="ShopOneOnClicked"/>
+            <Label
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" FontSize="Large" >
+                <Label.Text>
+Guitar Center
+17135 W Bluemound Rd
+Brookfield, WI 53005
+(262) 797-6448
+                </Label.Text>
+            </Label>
+            <Button VerticalOptions="Center" Text="Website" Clicked="ShopTwoOnClicked"/>
+            <Label
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" FontSize="Large" >
+                <Label.Text>
+Cascio Music
+13819 W National Ave
+New Berlin, WI 53151
+(262) 789-7600
+                </Label.Text>
+            </Label>
+            <Button VerticalOptions="Center" Text="Website" Clicked="ShopThreeOnClicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
